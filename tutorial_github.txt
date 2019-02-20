@@ -1,0 +1,19 @@
+Tutorial GitHub 
+
+ 
+
+Após instalar a ferramenta Git Bash realizar a seguinte sequencia de passos: 
+
+ 
+
+Criar pasta no PC 
+
+Clicar com botão direito e selecionar “Git Bash Here” 
+
+Copia o endereço do seu repositorio 
+
+Escreva “git clone “ e colar no cmd o link com Shift+Insert 
+
+Escreva “cd “ e o nome do repositorio, escreva o inicio e aperte TAB para autocompletar 
+
+Escreva “git pull” para pegar atualizações de alterações feitas no site 
