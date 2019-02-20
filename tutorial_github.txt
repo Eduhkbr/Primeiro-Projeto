@@ -1,4 +1,4 @@
-Tutorial GitHub 
+﻿Tutorial GitHub – Baixar e Receber Atualizações 
 
  
 
@@ -18,6 +18,12 @@ Escreva “cd “ e o nome do repositorio, escreva o inicio e aperte TAB para au
 
 Escreva “git pull” para pegar atualizações de alterações feitas no site 
 
+ 
 
------------------------------------------------------------------------------------------------
-Seja feliz
+ 
+
+Tutorial GitHub – Enviar Atualizações 
+
+ 
+
+Faça as alterações antes de enviar a atualização para o servidor remoto 
