@@ -17,3 +17,7 @@ Escreva “git clone “ e colar no cmd o link com Shift+Insert
 Escreva “cd “ e o nome do repositorio, escreva o inicio e aperte TAB para autocompletar 
 
 Escreva “git pull” para pegar atualizações de alterações feitas no site 
+
+
+-----------------------------------------------------------------------------------------------
+Seja feliz
